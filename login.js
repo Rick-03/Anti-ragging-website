@@ -41,5 +41,12 @@ function validation(){
             icon: "success",
           });
     }
+    var isRegistrationSuccessful = true;
+
+    if (isRegistrationSuccessful) {
+        // Redirect to the main index.html page
+        window.location.href = "index.html";
+        // You can replace "index.html" with the actual path of your main page
+    }
 
 }
