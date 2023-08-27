@@ -31,31 +31,31 @@
     </div>
 <script src="https://smtpjs.com/v3/smtp.js"> </script>
 <script>
-    function SendEmail(){
-        let name= document.getElementById("name") . value;
-        let email= document.getElementById("email").value;
-        let phone= document.getElementById("phone").value;
-        let message= document.getElementById("message").value;
-        let year=document.getElementById("year").value;
+   function SendEmail() {
+    let name = document.getElementById("name").value;
+    let email = document.getElementById("email").value;
+    let phone = document.getElementById("phone").value;
+    let message = document.getElementById("message").value;
+    let year = document.getElementById("year").value;
 
-        let body = "Name :" + name + "<br/>Email :" + email + "<br/>Year of study :" + year + "<br/>Phone no:" + phone + "<br/>" + message
-        
+    let body = "Name: " + name + "<br/>Email: " + email + "<br/>Year of study: " + year + "<br/>Phone no: " + phone + "<br/>" + message;
+
     Email.send({
-            Host : "smtp.elasticemail.com",
-            Username : "xyza87741@gmail.com",
-            Password : "DEC21776A7A28B811D5421B2A793A1E714C1",
-            To : 'satwik.mukherjee.22@aot.edu.in',
-            From :  "xyza87741@gmail.com",
-            Subject : "Student Complaint Form",
-            Body : body
-        //   "name: "+ document.getElementById("name").value
-        //   +"<br/> Email: "+document.getElementById("email").value
-        //   +"<br/> Phone no:" + document.getElementById("phone").value
-        //   +"<br/> Message:" + document.getElementById("message").value  
-}).then(
-  message => alert("message sent successfully")
-);
+        Host: "smtp.elasticemail.com",
+        Username: "xyza87741@gmail.com",
+        Password: "DEC21776A7A28B811D5421B2A793A1E714C1",
+        To: 'satwik.mukherjee.22@aot.edu.in',
+        From: "xyza87741@gmail.com",
+        Subject: "Student Complaint Form",
+        Body: body
+    }).then(
+        message => {
+            alert("Message sent successfully");
+            window.location.href = "index.html";
+        }
+    );
 }
+
 
 </script> 
 </body>
