@@ -11,7 +11,7 @@ html,body{
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
-#cursor {
+/* #cursor {
   height: 20px;
   width: 20px;
   background-color: #c9f05f;
@@ -29,7 +29,7 @@ html,body{
   filter: blur(80px);
   z-index: 9;
   transition: all linear 0.1s;
-}
+} */
 
 #nav{
     height: 145px;
