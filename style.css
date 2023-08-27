@@ -10,6 +10,25 @@ html,body{
     width: 100%;
     scroll-behavior: smooth;
 }
+#cursor {
+  height: 20px;
+  width: 20px;
+  background-color: #c9f05f;
+  border-radius: 50%;
+  position: fixed;
+  z-index: 99;
+  transition: all linear 0.1s;
+}
+#cursor-blur {
+  height: 500px;
+  width: 500px;
+  background-color: #bbda664d;
+  border-radius: 50%;
+  position: fixed;
+  filter: blur(80px);
+  z-index: 9;
+  transition: all linear 0.1s;
+}
 
 #nav{
     height: 145px;
@@ -255,9 +274,7 @@ video{
 .card1:hover .p1{
     opacity: 1;
 }
-.card1:hover{
-  transform: rotate3d(1,1,0,30deg);
-}
+
 
 #green{
     height: 30vh;
