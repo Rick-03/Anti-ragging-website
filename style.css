@@ -104,10 +104,12 @@ video{
 #scroller1{
     display: inline-block;
     white-space: nowrap;
+    
     animation-name: scroll;
     animation-duration: 30s;
     animation-timing-function: linear;
     animation-iteration-count:infinite;
+    gap: 60px;
 }
 
 
