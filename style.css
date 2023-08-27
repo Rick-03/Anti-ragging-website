@@ -236,7 +236,7 @@ video{
     
     /* padding-top: 160px; */
     opacity: 0;
-    transition: all ease 0.6;
+    transition: all ease 0.6s;
 
 }
 .p1 h4{
@@ -254,6 +254,9 @@ video{
 }
 .card1:hover .p1{
     opacity: 1;
+}
+.card1:hover{
+  transform: rotate3d(1,1,0,30deg);
 }
 
 #green{
