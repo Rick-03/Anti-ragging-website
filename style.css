@@ -158,14 +158,16 @@ video{
     border-radius: 20px;
     object-fit: cover;
 }
+
 #about-us{
      width: 40%;
-     text-align: center ;
+     text-align: center;
 }
 #about-us h3{
     font-size: 40px;
     font-weight: 800;
     margin-bottom: 40px;
+    color: #119f3a;
 }
 #about-us p{
     font-size: 20px;
