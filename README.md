@@ -100,7 +100,7 @@
 - <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">**CSS3** -  [to add style]<br>
 - <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> **JavaScript**- [to add logic] <br>
 
-- <img src = "https://github.com/Rick-03/Anti-ragging-website/assets/132976552/56570c67-20f0-45a1-8a8f-813034899b5e" alt="Netlify" width="40" height="40"> - Deployed in **Netlify**
+- <img src = "https://github.com/Rick-03/Anti-ragging-website/assets/132976552/6e61fd49-bde3-40e3-bcc0-50f2efb720b4" alt="Netlify" width="60" height="30"> - Deployed in **Netlify**
 
 
 
