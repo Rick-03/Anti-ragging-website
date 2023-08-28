@@ -58,7 +58,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-### Screenshots
+### Screenshot of the Home Page
 <div align="center">
 
 ![hackss](https://github.com/Rick-03/Anti-ragging-website/assets/132976552/bd8eca4e-2913-417f-8400-e0a10d046b64)
