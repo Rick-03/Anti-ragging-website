@@ -1,11 +1,10 @@
-# AntiRagWave - Hash it Out
+# AntiRagWave - Hash it Out(InterHacktive ft.AOT_Hackathon)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="">
     <img src="https://github.com/Rick-03/Anti-ragging-website/assets/132976552/1951e7f8-f12f-4203-8a51-ac6f4efce5ac" alt="Logo" width="120" height="120">
-    
   </a>
 
   <h3 align="center">SAY NO TO RAGGING</h3>
@@ -21,9 +20,9 @@
     .
     <a href="#">Live</a>
     ·
-    <a href="">Report Issues</a>
+    <a href="#">Report Issues</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="#">Request Feature</a>
   </p>
 </div>
 
@@ -93,7 +92,7 @@
 <me-top">back to top</a>)</p>
 
 
-### Built With
+### Tech Stack
 
 
 
@@ -149,21 +148,15 @@ Don't forget to star this project!!
 
 
 
-<!-- LICENSE -->
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Created by:
 
+ - <img src="https://github.com/Rick-03/Anti-ragging-website/assets/132976552/0c521d45-11d4-44a6-854f-4d4507a573d0" alt="satwick" width="40" height="40"> **Satwick Mukherjee [Lead]**
+ - <img src="https://github.com/Rick-03/Anti-ragging-website/assets/132976552/4e50771a-635e-49df-8d3f-ffbe0c78512f" alt="arnab" width="40" height="40"> **Arnab Mukherjee**
+ - <img src="https://github.com/Rick-03/Anti-ragging-website/assets/132976552/ffed346b-88fb-4278-bb59-24f036efff15" alt="shreeya" width="40" height="40"> **Shreeya Chattopadhyay**
+ - <img src="https://github.com/Rick-03/Anti-ragging-website/assets/132976552/e55a234b-b626-4c39-9bcd-17240aba390c" alt="subhankar" width="40" height="40"> **Subhankar Chakraborty**
 
 
 
