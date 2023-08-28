@@ -9,6 +9,7 @@
 
   <h3 align="center">SAY NO TO RAGGING</h3>
   <a align="center" href="">Watch Demo Video</a>
+  <a align="center" href="https://antiragwave-hashitout.netlify.app/">Deploy Link</a>
 
   <p align="center">
     Use this readme for getting stared with this project
@@ -48,10 +49,9 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+  </ul>
 </details>
 
 
