@@ -8,8 +8,8 @@
   </a>
 
   <h3 align="center">SAY NO TO RAGGING</h3>
-  <a align="center" href="">Watch Demo Video</a>
-  <a align="center" href="https://antiragwave-hashitout.netlify.app/">Deploy Link</a>
+    <a align="center" href="">Watch Demo Video</a>
+    | <a align="center" href="https://antiragwave-hashitout.netlify.app/">Deploy Link</a>
 
   <p align="center">
     Use this readme for getting stared with this project
